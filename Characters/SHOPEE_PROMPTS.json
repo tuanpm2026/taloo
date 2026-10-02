@@ -1,0 +1,22 @@
+[
+  {
+    "id": "shopee-portrait",
+    "output": "Characters/portraits/shopee.png",
+    "prompt": "Use case: stylized-concept. Input image 1 is the identity, clothing and 3D rendering style reference. Shopee is the user's original human boy character, exactly 3 years old, not an animal or a brand mascot. Preserve his round toddler face, warm light-peach skin, large brown eyes, short tousled dark-brown hair, soft cheeks, small nose and toddler body proportions. Preserve yellow short-sleeve polo with light-blue collar and sleeve cuffs, two white buttons, light-blue cuffed shorts, white crew socks and blue-and-white velcro sneakers. Match the polished soft 3D children's-story illustration style, gentle studio lighting, detailed hair and fabric. No words, logos, watermark or other people. Primary request: create a new standalone full-body character portrait of Shopee, facing the viewer at a slight three-quarter angle, cheerful small smile, holding the same small green crayon in one hand with the other hand relaxed. Clean pale warm-grey seamless studio backdrop with a subtle grounding shadow. Portrait composition, centered, generous margins, complete hair and shoes visible. No classroom or poster.",
+    "generated_source": "/Users/tuanphung/Library/Application Support/orca/codex-accounts/31e89d3d-22fb-4d78-9694-12a65ea21d1c/home/generated_images/01a0fbaa-f3e3-7261-b1c3-1aee258e9b06/exec-b6341fb8-3eb1-4ac4-8ed4-509d5ee21b36.png",
+    "reference": "Characters/refs/shopee-original.png",
+    "tool": "built-in image_gen",
+    "status": "generated",
+    "sha256": "71ec4f2586e608f6cb4bbe76adf699b467837652de6d5f48bed7dee4696cc3a2"
+  },
+  {
+    "id": "shopee-sheet",
+    "output": "Characters/sheets/shopee.png",
+    "prompt": "Use case: stylized-concept. Input image 1 is the identity, clothing and 3D rendering style reference. Shopee is the user's original human boy character, exactly 3 years old, not an animal or a brand mascot. Preserve his round toddler face, warm light-peach skin, large brown eyes, short tousled dark-brown hair, soft cheeks, small nose and toddler body proportions. Preserve yellow short-sleeve polo with light-blue collar and sleeve cuffs, two white buttons, light-blue cuffed shorts, white crew socks and blue-and-white velcro sneakers. Match the polished soft 3D children's-story illustration style, gentle studio lighting, detailed hair and fabric. No words, logos, watermark or other people. Primary request: a clean reusable three-view full-body character sheet of the same Shopee boy. Landscape layout, exactly three equal-scale figures arranged in one row: front view, three-quarter view, and true side-profile view. Identical face, hairstyle, age, body shape, clothing and shoes across every view. Neutral relaxed stance, arms slightly away from body, hands empty, gentle small smile, eyes open. Show the entire character from hair to soles with generous space around each figure. Pale warm-grey studio background, subtle grounding shadows. No crayon, classroom, accessories, props or view labels.",
+    "generated_source": "/Users/tuanphung/Library/Application Support/orca/codex-accounts/31e89d3d-22fb-4d78-9694-12a65ea21d1c/home/generated_images/01a0fbaa-f3e3-7261-b1c3-1aee258e9b06/exec-f9deea77-c23a-40ea-a451-b928f1667759.png",
+    "reference": "Characters/refs/shopee-original.png",
+    "tool": "built-in image_gen",
+    "status": "generated",
+    "sha256": "8fd4c09dddab8686e09888c0960eb13100c137f1b9a9a1d303bf369df33b5aaa"
+  }
+]

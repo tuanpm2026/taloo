@@ -1,0 +1,24 @@
+# Nội dung, ảnh gốc và tham chiếu chỉ giữ local.
+/story-*/
+/Characters/*
+!/Characters/CHARACTERS.md
+!/Characters/SOURCES.json
+!/Characters/SUPPORTING_CHARACTERS.md
+!/Characters/CHARACTER_SHEET_PROMPTS.json
+!/Characters/CHARACTER_SHEETS.md
+!/Characters/SHOPEE.md
+!/Characters/SHOPEE_PROMPTS.json
+/albums/
+/*.zip
+/index.html
+
+# Secrets
+.env
+.env.*
+*.key
+
+# OS / editor / Python
+.DS_Store
+.venv/
+__pycache__/
+*.pyc
